@@ -7,6 +7,8 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ArraySearchMenu arraySearch = new ArraySearchMenu();
+        StackOperations stack = new StackOperations();
+        QueueOperations queue = new QueueOperations();
         int choice;
 
         do {
@@ -29,10 +31,11 @@ public class Main {
                     arraySearch.runArrayMenu(sc);
                     break;
                 case 2:
-                    System.out.println("Stack module - coming soon.");
+                    stack.runMenu(sc);
                     break;
+
                 case 3:
-                    System.out.println("Queue module - coming soon.");
+                    queue.runMenu(sc);
                     break;
                 case 4:
                     System.out.println("Linked List module - coming soon.");
