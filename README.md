@@ -52,3 +52,16 @@ Structures and Algorithms - Graded Practical Assignment 2.
 - Wrote `StackQueueTest.java` to test edge cases
 - Integrated the Stack and Queue menus into `Main.java` (options 2 and 3)
 - Used my own branch, commits and pull request (PR #3) for collaboration
+
+
+
+
+
+## Member 3: Linked List
+
+**Student Name:** MIF Shadha
+**Student ID:** 23DA2-0769
+**Assigned Responsibility:** Linked List Implementation
+
+**Individual Contribution:**
+- The Linked List component (`LinkedListOperations.java`) was implemented by Fathima Samha (23DA2-1074) on branch `samha/linked-list`, as this member was unable to contribute due to a laptop issue.
