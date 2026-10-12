@@ -9,6 +9,7 @@ public class Main {
         ArraySearchMenu arraySearch = new ArraySearchMenu();
         StackOperations stack = new StackOperations();
         QueueOperations queue = new QueueOperations();
+        LinkedListOperations linkedList = new LinkedListOperations();
         int choice;
 
         do {
@@ -38,7 +39,7 @@ public class Main {
                     queue.runMenu(sc);
                     break;
                 case 4:
-                    System.out.println("Linked List module - coming soon.");
+                    linkedList.runMenu(sc);
                     break;
                 case 5:
                     arraySearch.runSearchMenu(sc);
