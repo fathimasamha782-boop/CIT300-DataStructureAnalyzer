@@ -51,7 +51,7 @@ Structures and Algorithms - Graded Practical Assignment 2.
 - Added input validation in the Stack and Queue submenus
 - Wrote `StackQueueTest.java` to test edge cases
 - Integrated the Stack and Queue menus into `Main.java` (options 2 and 3)
-- Used my own branch, commits and pull request (PR #3) for collaboration
+- Used my own branch(`feature/stack-queue` and `nusha/readme-member2`), commits and pull request (PR #3 and #4) for collaboration
 
 
 
