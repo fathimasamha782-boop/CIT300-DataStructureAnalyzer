@@ -10,6 +10,7 @@ public class Main {
         StackOperations stack = new StackOperations();
         QueueOperations queue = new QueueOperations();
         LinkedListOperations linkedList = new LinkedListOperations();
+        GraphOperations graph = new GraphOperations();
         int choice;
 
         do {
