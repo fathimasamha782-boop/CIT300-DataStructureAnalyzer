@@ -46,7 +46,7 @@ public class Main {
                     arraySearch.runSearchMenu(sc);
                     break;
                 case 6:
-                    System.out.println("Graph module - coming soon.");
+                    graph.runMenu(sc);
                     break;
                 case 7:
                 case 8:
